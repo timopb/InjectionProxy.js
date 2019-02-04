@@ -1,11 +1,11 @@
 # injectionproxy.js
-A simple HTTP proxy written in node.js, capable of injecting code into HTML transmissions
+A proof of concept HTTP proxy written in node.js, capable of injecting code into HTML transmissions. This is not a sophisticated production ready solution.
 
 ## Installation
 To install the required modules run the following command:
 
 ```
-npm install colors dateformat iconv mootools 
+npm install 
 ```
 
 ## What it does
