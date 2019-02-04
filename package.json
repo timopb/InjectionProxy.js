@@ -1,0 +1,28 @@
+{
+  "name": "injectionproxy",
+  "version": "1.0.0",
+  "description": "A simple HTTP proxy written in node.js, capable of injecting code into HTML transmissions",
+  "main": "injectionproxy.js",
+  "scripts": {
+    "start": "node injectionproxy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timopb/injectionproxy.js.git"
+  },
+  "author": "Timo P. Becker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timopb/injectionproxy.js/issues"
+  },
+  "homepage": "https://github.com/timopb/injectionproxy.js#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "dateformat": "^3.0.3",
+    "iconv": "^2.3.2",
+    "install": "^0.12.2",
+    "mootools": "^1.5.2",
+    "npm": "^6.7.0"
+  }
+}
